@@ -14,3 +14,5 @@ Internet posts very often share they own API . But what about to try checking an
 ## Subprocess
 - "The subprocess is the tool that will make selenium more efficiency by running 4 programs at once but is depend from number of your procesor CORES.
 
+  
+
