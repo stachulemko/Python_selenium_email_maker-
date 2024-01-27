@@ -1,0 +1,5 @@
+# python version - os,itertools,time
+python==3.11.7
+
+# it no in the normal liblary setup in python
+selenium==3.141.0
