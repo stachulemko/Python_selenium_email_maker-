@@ -21,9 +21,7 @@ def read_file_and_append_elements(file_path, elements):
             except UnicodeDecodeError:
                 pass
 
-
 elements = []
-
 
 file_paths = [
     r"C:\zapas_nowy\dev\attacks\ready_email\strings\ImionaMęskie.txt",
